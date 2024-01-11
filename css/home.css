@@ -1,0 +1,53 @@
+body{
+    background: black;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+span{
+    color: #00FF08;
+    text-align: center;
+}
+
+h3, h2{
+    color: #FFF;
+    text-align: center;
+}
+
+.access{
+    padding: 30px;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    background-color: #242424;
+    border: none;
+    outline: none;
+    padding: 20px 15px;
+    border-radius: 30px;
+    color: #FFF;
+    font-size: 18px;
+}
+
+li{
+    background-color: #242424;
+    border: none;
+    outline: none;
+    padding: 20px 15px;
+    border-radius: 30px;
+    color: #FFF;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #00FF08;
+    display: block;
+}

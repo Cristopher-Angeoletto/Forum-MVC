@@ -1,0 +1,50 @@
+body{
+    background: black;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+h2, h3{
+    color: #FFF;
+    text-align: center;
+}
+
+.access{
+    padding: 30px;
+}
+
+.link{
+    display: block;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    background-color: #242424;
+    border: none;
+    outline: none;
+    padding: 20px 15px;
+    border-radius: 30px;
+    color: #FFF;
+    font-size: 18px;
+}
+
+li{
+    background-color: #242424;
+    border: none;
+    outline: none;
+    padding: 20px 15px;
+    border-radius: 30px;
+    color: #FFF;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+    list-style: none;
+}
+
+a{
+    color: #00FF08;
+}

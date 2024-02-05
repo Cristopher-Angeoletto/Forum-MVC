@@ -1,4 +1,4 @@
-<link href="css/single.css" rel="stylesheet"/>
+<link href="../css/single.css" rel="stylesheet"/>
 <h2>Você está em: <a href="<?php echo INCLUDE_PATH; ?>">FORUM</a> > <a href="<?php echo INCLUDE_PATH.$idForum ?>"><?php echo $nomeForum; ?></a> > <?php echo $nomeTopico; ?></h2>
 
 <?php

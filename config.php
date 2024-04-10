@@ -1,5 +1,5 @@
 <?php
-	define('INCLUDE_PATH','http://localhost/forum/');
+	define('INCLUDE_PATH','http://localhost/forum-mvc/');
 	define('HOST','localhost');
 	define('USER','root');
 	define('PASS','');
